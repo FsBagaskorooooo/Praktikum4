@@ -56,20 +56,55 @@ Tugas Praktikum
 
 ![ss12](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/5088e4d9-f024-49a4-bd09-dcf02935d1d8)
 
+```
+Tugas praktikum
+1. Tampilkan jumlah hewan yang dimiliki setiap owner
+2. Tampilkan jumlah hewan berdasarkan spesies
+3. Tampilkan jumlah hewan berdasarkan jenis kelamin
+4. Tampilkan jumlah hewan berdasarkan spesies dan jenis kelamin
+5. Tampilkan jumlah hewan berdasarkan spesies (cat dan dog saja) dan jenis kelamin
+6. Tampilkan jumlah hewan berdasarkan jenis kelamin yang diketahui saja
+```
 
+### Buat table hewan dan isi datanya
 
+![ss13](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/9cdc3798-ada0-4b1d-996c-758293433ce2)
 
+![ss14](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/795bdf83-0dda-43b1-929d-45d1aee89d49)
 
+![ss15](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/74fab188-9b4c-49d0-9877-5454b7e78430)
 
+### 1. Tampilkan jumlah hewan yang dimiliki setiap owner
 
+![ss16](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/051913a0-ee07-4e74-871e-a9752363de4a)
 
+### 2. Tampilkan jumlah hewan berdasarkan spesies
 
+![ss17](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/8f4f9527-eed0-4a05-b6a0-fd3cf5f6a2c6)
 
+### 3. Tampilkan jumlah hewan berdasarkan jenis kelamin
 
+![ss18](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/385a7917-9045-4fbb-bd92-857ba96177d8)
 
+### 4. Tampilkan jumlah hewan berdasarkan spesies dan jenis kelamin
 
+![ss19](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/12a2b672-accd-450e-ba72-5b7a837bab93)
 
+### 5. Tampilkan jumlah hewan berdasarkan spesies (cat dan dog saja) dan jenis kelamin
 
+![ss20](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/acd83be8-6ad5-4945-a741-ee7ef07314ad)
+
+### 6. Tampilkan jumlah hewan berdasarkan jenis kelamin yang diketahui saja
+
+![ss22](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/229e077a-0fe9-4f2a-81b2-2524278cbb5a)
+
+### KESIMPULAN
+
+* Tabel "pegawai" terdiri dari kolom-kolom seperti idpegawai, nama_depan, nama_belakang, email, telepon, tgl_kontrak, id_job, gaji, dan tunjangan.
+* Data pada tabel "pegawai" mencakup informasi tentang pegawai, termasuk identifikasi pegawai (idpegawai), nama depan dan belakang, email, nomor telepon, tanggal kontrak, identifikasi pekerjaan (id_job), gaji, dan tunjangan.
+* Setiap pegawai memiliki nilai yang berbeda untuk setiap kolom di tabel.
+* Beberapa pegawai memiliki nilai NULL untuk kolom tunjangan, yang menandakan bahwa tunjangan tidak tersedia untuk pegawai tersebut.
+* Data pada tabel "pegawai" digunakan untuk menyimpan informasi pegawai, seperti nama, kontak, dan detail pekerjaan.
 
 
 
