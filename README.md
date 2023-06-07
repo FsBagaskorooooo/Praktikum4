@@ -18,43 +18,44 @@ Tugas Praktikum
 
 ### Buat tabel pegawai dan isi datanya
 
-![ss2](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/133633cb-80a5-4892-b970-5e30b013a9b3)
+![ss2](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/c56fcc26-9bee-4e88-8657-eae04a8706aa)
 
-![ss1](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/077ef2af-4d90-4ca3-bd3b-f3f76ef3d6f8)
+![ss1](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/b27d3566-3aa6-4641-805c-be5cc1e9380e)
 
-![ss3](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/65c750a6-dbb2-4010-8a18-ffa4e737b0bb)
+![ss3](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/cc4aac61-8d4c-419a-a5fa-34c938dadd3c)
 
 ### 1. Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 !
 
-![ss4](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/a98399df-4cee-464f-8a0b-fec51fe252cf)
+![ss4](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/d6ad7523-b593-450d-b64c-3645ca2f8e3b)
 
 ### 2. Tampilkan pegawai yang tunjangannya NULL!
 
-![ss5](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/7e5a4bb1-5352-4925-bd10-c26097aed1e4)
+![ss5](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/59319aac-5517-4d7f-8bca-19e9a343f66b)
 
 ### 3. Tampilkan pegawai yang tunjangannya tidak NULL!
 
-![ss6](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/aee989aa-ca2e-4ae7-8ce1-7d2d53524317)
+![ss6](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/bdc9d67b-f807-4e16-9309-c24959758bd7)
 
 ### 4. Tampilkan/hitung jumlah baris/record tabel pegawai!
 
-![ss7](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/546f6f9d-108e-42ca-9dc7-100269994396)
+![ss7](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/06386137-e907-4dd8-a72e-d05ed9671789)
 
 ### 5. Tampilkan/hitung jumlah total gaji di tabel pegawai!
 
-![ss10](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/75de5af8-eb5e-43cd-a7c0-fe51e281d5b2)
+![ss10](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/b8d44ca2-4b3a-4115-807d-e5b8994b5646)
 
 ### 6. Tampilkan/hitung rata-rata gaji pegawai!
 
-![ss9](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/621f5184-01df-41c4-974b-ab6c72dbae6a)
+![ss9](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/c06ac7cb-6e07-47d9-8331-31681a95c5e6)
 
 ### 7. Tampilkan gaji terkecil!
 
-![ss11](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/8cc04770-0f14-4a7c-a901-754eb62876ce)
+![ss11](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/2517db54-87ec-4396-8ffe-171395e3e7da)
 
 ### 8. Tampilkan gaji terbesar!
 
-![ss12](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/5088e4d9-f024-49a4-bd09-dcf02935d1d8)
+![ss12](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/9d422022-b88a-4a54-832c-137ea5c08b28)
+
 
 ```
 Tugas praktikum
@@ -68,35 +69,35 @@ Tugas praktikum
 
 ### Buat table hewan dan isi datanya
 
-![ss13](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/9cdc3798-ada0-4b1d-996c-758293433ce2)
+![ss13](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/d6a9a11f-9811-4d69-8d82-8b948efdfedd)
 
-![ss14](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/795bdf83-0dda-43b1-929d-45d1aee89d49)
+![ss14](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/065944ca-8c12-420f-b4d0-159b77806415)
 
-![ss15](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/74fab188-9b4c-49d0-9877-5454b7e78430)
+![ss15](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/ce35447c-5158-4a5a-ab07-5679ed2d52b0)
 
 ### 1. Tampilkan jumlah hewan yang dimiliki setiap owner
 
-![ss16](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/051913a0-ee07-4e74-871e-a9752363de4a)
+![ss16](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/16d65b52-af6a-47c0-9c81-38fb61747b1a)
 
 ### 2. Tampilkan jumlah hewan berdasarkan spesies
 
-![ss17](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/8f4f9527-eed0-4a05-b6a0-fd3cf5f6a2c6)
+![ss17](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/31b9a3b5-e2ce-4161-b935-50bbf3f12520)
 
 ### 3. Tampilkan jumlah hewan berdasarkan jenis kelamin
 
-![ss18](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/385a7917-9045-4fbb-bd92-857ba96177d8)
+![ss18](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/3c78175d-6172-49bf-8001-bf03b0cb53df)
 
 ### 4. Tampilkan jumlah hewan berdasarkan spesies dan jenis kelamin
 
-![ss19](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/12a2b672-accd-450e-ba72-5b7a837bab93)
+![ss19](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/b9b80b70-f76d-4543-ad99-439c891a2065)
 
 ### 5. Tampilkan jumlah hewan berdasarkan spesies (cat dan dog saja) dan jenis kelamin
 
-![ss20](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/acd83be8-6ad5-4945-a741-ee7ef07314ad)
+![ss20](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/23a5102a-1091-4050-abe0-485e0f41be9e)
 
 ### 6. Tampilkan jumlah hewan berdasarkan jenis kelamin yang diketahui saja
 
-![ss22](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/229e077a-0fe9-4f2a-81b2-2524278cbb5a)
+![ss22](https://github.com/FsBagaskorooooo/Praktikum4/assets/130354090/bd77d114-19fc-4815-8a44-eb2ab7f77cf7)
 
 ### KESIMPULAN
 
